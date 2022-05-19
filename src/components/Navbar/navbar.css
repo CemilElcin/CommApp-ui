@@ -1,0 +1,28 @@
+body,
+html {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+.bg-dark-light {
+  background-color: #4a4a4a;
+}
+
+.bg-dark-light-b {
+  background-color: #353535;
+}
+
+.sidebar {
+  display: flex;
+  height: 100%;
+}
+
+.feed-profile-img {
+  width: 25px;
+  height: 25px;
+}
+
+.w-100 {
+  width: 100%;
+}
